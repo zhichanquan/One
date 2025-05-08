@@ -3,7 +3,7 @@
     "zoteroif@qnscholar": {
       "updates": [
         {
-          "version": "6.2.9",
+          "version": "6.3.3",
           "update_link": "https://github.com/zhichanquan/One/releases/download/One/one-633.xpi",
           "applications": {
             "zotero": {

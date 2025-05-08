@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "6.2.9",
-          "update_link": "https://github.com/zhichanquan/One/releases/download/One/one-629.xpi",
+          "update_link": "https://github.com/zhichanquan/One/releases/download/One/one-633.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"

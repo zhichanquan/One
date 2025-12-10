@@ -3,8 +3,8 @@
     "zoteroif@qnscholar": {
       "updates": [
         {
-          "version": "6.5.1",
-          "update_link": "https://github.com/zhichanquan/One/releases/download/One/one-651.xpi",
+          "version": "6.5.5",
+          "update_link": "https://github.com/zhichanquan/One/releases/download/One/one-655.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
